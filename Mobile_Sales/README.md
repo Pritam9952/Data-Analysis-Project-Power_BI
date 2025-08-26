@@ -15,7 +15,7 @@ A professional **Power BI** dashboard project analyzing **mobile phone sales** a
 - **Best Sales Day:** Saturday (~₹43.5M)  
 - **Preferred Payment:** UPI (~26%)
 
-![Dashboard Preview](./assets/dashboard.png)
+![Dashboard Preview](./assests/dashboard.png)
 
 ---
 
