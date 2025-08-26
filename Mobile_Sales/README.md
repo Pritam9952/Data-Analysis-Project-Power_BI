@@ -15,7 +15,7 @@ A professional **Power BI** dashboard project analyzing **mobile phone sales** a
 - **Best Sales Day:** Saturday (~₹43.5M)  
 - **Preferred Payment:** UPI (~26%)
 
-![Dashboard Preview](./assets/dashboard_image_1.png)
+![Dashboard Preview](./assets/dashboard.png)
 
 ---
 
@@ -26,10 +26,9 @@ A professional **Power BI** dashboard project analyzing **mobile phone sales** a
 ├── Slaes.pbix
 ├── README.md
 └── assets/
-    └── dashboard_image.png  (preview used in README)
+    └── dashboard.png  
 ```
 
-> Note: The PBIX file name is currently **Slaes.pbix**. You can rename it to **Sales.pbix** if you prefer.
 
 ---
 
