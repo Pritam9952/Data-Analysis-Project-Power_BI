@@ -116,13 +116,7 @@ RETURN DIVIDE(Curr - Prev, Prev)
 
 ---
 
-## 🖼️ Social Media
 
-Use this caption for LinkedIn:
-
-> I built a **Mobile Sales Data Dashboard** in **Microsoft Power BI** to turn raw data into actionable insights—city, brand, model, payment, and time trends in one view.  
-> Thanks to **Satish Dhawale (Skill Course)** for the practical guidance.  
-> #PowerBI #DataAnalytics #BusinessIntelligence #DashboardDesign
 
 ---
 
